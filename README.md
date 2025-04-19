@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @tonishii
-- 🌱 I’m currently learning Python, Kotlin, Java, and R
-- 💞️ I’m looking to collaborate on nothing at the moment
-- 📫 Email: anthonylibut@gmail.com
+- Hi, I’m @tonishii currently learning Python and R for data modeling, NextJS for webdev
+- Contacts: anthonylibut@gmail.com
